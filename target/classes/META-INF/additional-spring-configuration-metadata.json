@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "spring.jpa.hibernate.dll-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernate.dll-auto'"
+  },
+  {
+    "name": "in/index.jspspring.mvc.view.suff",
+    "type": "java.lang.String",
+    "description": "A description for 'in/index.jspspring.mvc.view.suff'"
+  },
+  {
+    "name": "in/spring.mvc.view.suff",
+    "type": "java.lang.String",
+    "description": "A description for 'in/spring.mvc.view.suff'"
+  }
+]}

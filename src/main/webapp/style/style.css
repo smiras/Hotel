@@ -1,0 +1,162 @@
+.letraTitulos {
+    font-family: Copperplate Gothic;
+}
+
+.titulo {
+    font-size: 50px;
+    font-family: Copperplate Gothic;
+}
+
+.letraNav {
+    margin: 0px 8px 0px 8px;
+    padding: 1em;
+    font-size: 22px;
+    font-family: Copperplate Gothic;
+}
+
+.header {
+    padding: 2%;
+    background-color: rgb(138, 221, 241);
+    border-radius: 20%;
+}
+
+.logo {
+    display: block;
+    margin: auto;
+    width: auto;
+    height: 150px;
+}
+
+body {
+    background-color: rgb(223, 253, 253);
+}
+
+nav ul li {
+    float: left;
+    list-style-type: none;
+}
+
+.main {
+    width: 75%;
+    text-align: center;
+    padding: 2em 0em 0em 10em;
+    justify-content: center;
+}
+
+.text {
+    color: black;
+    font-family: Calibri;
+    font-size: 20px;
+}
+
+.img {
+    border-radius: 15px;
+    display: block;
+    margin: auto;
+    margin-top: 3em;
+}
+
+.columna1 {
+    margin-left: 800px;
+    margin-top: 10px;
+}
+
+.columna2 {
+    margin-left: 200px;
+    margin-top: -215px;
+}
+
+.centrarTexto {
+    text-align: center;
+}
+
+.padding {
+    padding: 3em 0 3em 0;
+}
+
+.columnaServicios {
+    margin-left: auto;
+    margin-top: 10px;
+}
+
+.serviciosColor {
+    border-top: 2px solid rgb(13, 176, 212);
+    border-bottom: 2px solid rgb(13, 176, 212);
+    border-radius: 30%;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 15px;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+.galeria {
+    margin-left: 8%;
+}
+
+.promocionesOrdenar {
+    display: flex;
+    flex-direction: row;
+    padding: 2em 0 3em 0;
+    margin-left: 23%;
+}
+
+.tituloTabla {
+    background-color: #7EC8E3;
+}
+
+.section {
+    display: flex;
+    flex-direction: row;
+    margin-left: 15%;
+    margin-right: 20%;
+}
+
+.level {
+    display: flex;
+    flex-direction: column;
+    width: calc(100% / 3);
+    margin: 10px;
+    border: 1px solid #000;
+    border-radius: 3px;
+}
+
+.select {
+    width: 100px;
+    height: 40px;
+    margin-bottom: 1em;
+    border: none;
+    cursor: pointer;
+    background-color: #7EC8E3;
+}
+
+.centrarBoton {
+    text-align: center;
+}
+
+.rowContacto {
+    display: flex;
+    flex-direction: row;
+}
+
+.mapa {
+    margin-top: -30%;
+    margin-left: 10%;
+}
+
+form {
+    display: block;
+    margin-left: 10%;
+}
+
+.botonLogin {
+    background-color: rgb(13, 176, 212);
+    border: 1px solid #000;
+    color: #000;
+    padding: 10px 10px 10px 10px;
+}
